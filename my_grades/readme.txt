@@ -4,6 +4,8 @@ Provides display of all enrolled course overall grades and links to grade report
 
 To install, place all files in /blocks/my_grades and visit /admin/index.php in your browser.
 
+This block has been tested on the following versions of Moodle: 2.1, 2.2, 2.3, 2.4.
+
 This block was written by Karen Holland <kholland@lts.ie>, Mei Jin and Jiajia Chen.
 It is copyright Karen Holland, Mei Jin and Jiajia Chen and contributors.
 
