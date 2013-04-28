@@ -24,4 +24,7 @@
  */
 
 	$plugin->version=2013042201;
-	$plugin->requires=2010112400;
+	$plugin->component = 'block_my_grades';
+	$plugin->requires=2011070100;
+	$plugin->release = '1.0 (Build: 2013042201)';
+	$plugin->maturity  = MATURITY_STABLE;
