@@ -1,0 +1,7 @@
+.block_my_grades {text-align: center;}
+.block_my_grades h1 {margin: 4px;font-size: 1.1em;}
+.block_my_grades table.grades {text-align: left;width: 100%; cell-spacing: 1;}
+.block_my_grades th {text-align: left}
+.block_my_grades table.grades .number,
+.block_my_grades table.grades .grade {text-align: right;width: 10%;}
+.block_my_grades table.grades caption {margin: 1em 0px 0px 0px;border-bottom-width: 1px;border-bottom-style: solid;font-weight: bold;}
