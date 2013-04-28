@@ -16,10 +16,10 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'block_comments', language 'en', branch 'MOODLE_20_STABLE'
+ * My Grades Block.
  *
- * @package   block_comments
- * @copyright 1999 onwards Martin Dougiamas  {@link http://moodle.com}
+ * @package   block_my_grades
+ * @author    Karen Holland, Mei Jin, Jiajia Chen <kholland@lts.ie>
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
