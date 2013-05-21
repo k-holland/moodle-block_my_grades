@@ -87,7 +87,6 @@ class block_my_grades extends block_base {
 		global $CFG, $DB, $OUTPUT;
 		$data = array();
 		
-		// MDL-11679, only show user's courses instead of all courses
 		if ($courses = enrol_get_users_courses($report->user->id, false, 'id, shortname, showgrades')) {
 			$numusers = $report->get_numusers(false);
 
