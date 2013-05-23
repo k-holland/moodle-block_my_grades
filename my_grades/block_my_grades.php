@@ -70,14 +70,6 @@ class block_my_grades extends block_base {
 		}
 		return $this->content;
 	}
-	
-	public function specialization() {
-		if (!empty($this->config->title)) {
-			$this->title = $this->config->title;
-		} else {
-			$this->config->title = 'Default title ...';
-		}   
-	}
 
 	public function instance_allow_multiple() {
 		return false;
