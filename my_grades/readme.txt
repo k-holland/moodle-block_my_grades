@@ -6,7 +6,7 @@ To install, place all files in /blocks/my_grades and visit /admin/index.php in y
 
 This block has been tested on the following versions of Moodle: 2.1, 2.2, 2.3 and 2.4.
 
-This block was written by Karen Holland <kh.moodledev.gmail.com>, Mei Jin and Jiajia Chen.
+This block was written by Karen Holland <kholland.dev@gmail.com>, Mei Jin and Jiajia Chen.
 It is copyright Karen Holland, Mei Jin and Jiajia Chen and contributors.
 
 Translations are copyright of their respective authors, as indicated in each language file.

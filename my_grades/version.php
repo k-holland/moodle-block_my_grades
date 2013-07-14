@@ -19,7 +19,7 @@
  * My Grades Block.
  *
  * @package   block_my_grades
- * @author    Karen Holland <kh.moodledev.gmail.com>, Mei Jin, Jiajia Chen
+ * @author    Karen Holland <kholland.dev@gmail.com>, Mei Jin, Jiajia Chen
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
