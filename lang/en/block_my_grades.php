@@ -29,3 +29,5 @@
 	$string['blockstring']='My Grades string';
 	$string['gradetblheader_course'] = 'Course';
 	$string['gradetblheader_grade'] = 'Grade';
+	$string['my_grades:addinstance'] = 'Add a new My Grades block';
+	$string['my_grades:myaddinstance'] = 'Add a new My Grades block to My home';

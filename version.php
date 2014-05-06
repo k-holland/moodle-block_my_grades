@@ -23,8 +23,8 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-	$plugin->version=2013082001;
+	$plugin->version=2014050600;
 	$plugin->component = 'block_my_grades';
-	$plugin->requires=2011070100;
-	$plugin->release = '1.0 (Build: 2013042201)';
+	$plugin->requires=2012062500;
+	$plugin->release = '1.1 (Build: 2014050600)';
 	$plugin->maturity  = MATURITY_STABLE;
