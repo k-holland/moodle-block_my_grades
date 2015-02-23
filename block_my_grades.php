@@ -41,6 +41,7 @@ class block_my_grades extends block_base {
 		}
 
 		$this->content	 =  new stdClass;
+        $this->content->text = "";
 
 		/// return tracking object
 		$gpr = new grade_plugin_return(array('type'=>'report', 'plugin'=>'overview', 'courseid'=>$COURSE->id, 'userid'=>$USER->id));
